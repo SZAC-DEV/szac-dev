@@ -1,3 +1,7 @@
+<p align="left">
+  <b>🇧🇷 Português</b> · <a href="https://github.com/SZAC-DEV/szac-dev/blob/main/README.en.md">🇺🇸 English</a>
+</p>
+
 # Olá, eu sou Isaque Soares 👋
 
 🚀 **Desenvolvedor Pleno | Founder | Backend & Arquitetura de Software**  
